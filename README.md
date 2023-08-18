@@ -4,28 +4,30 @@
 
 ## سیدمحمدصادق طبائیان - 98105868
 
-## عبدالصمد حقیری - 98105727
+## عبدالصمد حقیری - ?
 
 
 آدرس مخزن پروژه: https://github.com/GildedJson/SE-AZ-5
 
 تابع temp بیشترین منابع را مصرف می‌کند:
 
-<img src="./img/methods1.JPG" width="400px">
+<img src="./img/methods1.JPG" width="600px">
 
 در حدی که حافظه‌ی جاوا جواب نمی‌دهد:
 
-<img src="./img/heap1.JPG" width="400px">
+<img src="./img/heap1.JPG" width="600px">
+
+&nbsp;
 
 &nbsp;
 
 کلاس MyNewCodeBad کد جدیدی است که نوشته شد. این فایل در پروژه موجود است و الگوریتم جمع را به صورت بازگشتی پیاده می‌کند. مصرف CPU را در شکل زیر مشاهده می‌کنید:
 
-<img src="./img/badcpu.JPG" width="400px">
+<img src="./img/badcpu.JPG" width="600px">
 
 کد اصلاح شده در کلاس MyNewCodeGood موجود است. در این کلاس الگوریتم جمع اصلاح شده است. مصرف CPU را در شکل زیر مشاهده می‌کنید.
 
-<img src="./img/goodcpu.JPG" width="400px">
+<img src="./img/goodcpu.JPG" width="600px">
 
 مصرف دیگر منابع تفاوت قابل توجهی نشان نمی‌دهد.
 
