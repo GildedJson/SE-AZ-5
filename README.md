@@ -17,6 +17,18 @@
 
 <img src="./img/heap1.JPG" width="600px">
 
+نمودارهای حافظه در این حالت به این شکل هستند:
+
+<img src="./img/memo1.JPG" width="600px">
+
+حال کد را تغییر می‌دهیم (فایل JavaCupGood) به این صورت که به جای arraylist، از یک array ساده به طول دویست‌میلیون خانه استفاده می‌کنیم. این کار استفاده از منابع را به شدت کاهش می‌دهد:
+
+<img src="./img/methods2.JPG" width="600px">
+
+مصرف حافظه در این حالت به این شکل است:
+
+<img src="./img/memo2.JPG" width="600px">
+
 &nbsp;
 
 &nbsp;

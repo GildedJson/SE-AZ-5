@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c4a2e3a-9677-4921-845a-b0ce6f9923fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProfilingTest/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProfilingTest/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProfilingTest/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProfilingTest/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProfilingTest/JavaCup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProfilingTest/JavaCup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProfilingTest/MainSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProfilingTest/MainSource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProfilingTest/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProfilingTest/Utils.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +52,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyNewCodeGood">
+  <component name="RunManager" selected="Application.JavaCup">
     <configuration name="JavaCup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaCup" />
+      <module name="ProfilingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaCupGood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCupGood" />
       <module name="ProfilingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,9 +83,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaCup" />
+        <item itemvalue="Application.JavaCupGood" />
         <item itemvalue="Application.MyNewCodeGood" />
         <item itemvalue="Application.MyNewCodeBad" />
-        <item itemvalue="Application.JavaCup" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +106,7 @@
       <workItem from="1543848414673" duration="478000" />
       <workItem from="1692384949141" duration="1064000" />
       <workItem from="1692386049214" duration="116000" />
-      <workItem from="1692386326198" duration="4435000" />
+      <workItem from="1692386326198" duration="5718000" />
     </task>
     <servers />
   </component>
@@ -134,22 +134,22 @@
       <screen x="62" y="0" width="1218" height="720" />
     </state>
     <state x="127" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1218.720@62.0.1218.720" timestamp="1692391564901" />
-    <state width="1175" height="222" key="GridCell.Tab.0.bottom" timestamp="1692395594788">
+    <state width="1175" height="221" key="GridCell.Tab.0.bottom" timestamp="1692397552417">
       <screen x="62" y="0" width="1218" height="720" />
     </state>
-    <state width="1175" height="222" key="GridCell.Tab.0.bottom/62.0.1218.720@62.0.1218.720" timestamp="1692395594788" />
-    <state width="1175" height="222" key="GridCell.Tab.0.center" timestamp="1692395594788">
+    <state width="1175" height="221" key="GridCell.Tab.0.bottom/62.0.1218.720@62.0.1218.720" timestamp="1692397552417" />
+    <state width="1175" height="221" key="GridCell.Tab.0.center" timestamp="1692397552417">
       <screen x="62" y="0" width="1218" height="720" />
     </state>
-    <state width="1175" height="222" key="GridCell.Tab.0.center/62.0.1218.720@62.0.1218.720" timestamp="1692395594788" />
-    <state width="1175" height="222" key="GridCell.Tab.0.left" timestamp="1692395594787">
+    <state width="1175" height="221" key="GridCell.Tab.0.center/62.0.1218.720@62.0.1218.720" timestamp="1692397552417" />
+    <state width="1175" height="221" key="GridCell.Tab.0.left" timestamp="1692397552417">
       <screen x="62" y="0" width="1218" height="720" />
     </state>
-    <state width="1175" height="222" key="GridCell.Tab.0.left/62.0.1218.720@62.0.1218.720" timestamp="1692395594787" />
-    <state width="1175" height="222" key="GridCell.Tab.0.right" timestamp="1692395594788">
+    <state width="1175" height="221" key="GridCell.Tab.0.left/62.0.1218.720@62.0.1218.720" timestamp="1692397552417" />
+    <state width="1175" height="221" key="GridCell.Tab.0.right" timestamp="1692397552417">
       <screen x="62" y="0" width="1218" height="720" />
     </state>
-    <state width="1175" height="222" key="GridCell.Tab.0.right/62.0.1218.720@62.0.1218.720" timestamp="1692395594788" />
+    <state width="1175" height="221" key="GridCell.Tab.0.right/62.0.1218.720@62.0.1218.720" timestamp="1692397552417" />
     <state x="152" y="0" key="SettingsEditor" timestamp="1692391700332">
       <screen x="62" y="0" width="1218" height="720" />
     </state>
